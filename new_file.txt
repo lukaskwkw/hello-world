@@ -1,2 +1,3 @@
 sometxt
 newlinetext
+3th line added
