@@ -1,2 +1,2 @@
-sometext
+sometxt
 newlinetext
